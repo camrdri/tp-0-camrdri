@@ -20,6 +20,6 @@ def plot():
     )
     return dict(
         descripcion="Expectativa de vida en países de America a lo largo del tiempo",
-        autor="La cátedra",
+        autor="Cami",
         figura=figura,
     )
